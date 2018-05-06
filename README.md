@@ -15,7 +15,11 @@ Example:<br/>
 > Enter the size of each line:  20<br/>
 > Enter Line: Once my mother told me to go eat dinner. I was reluctant to eat the food that she had made because I didn't like vegetables. So, I went to my kitchen and found a box cereal. I ate all the different colored cereal except one: Blue.
 <br/><br/>
+
+
 Output:<br/>
+
+
 > Once my mother told<br/> 
 > me to go eat dinner.<br/>
 >  I was reluctant to <br/>
