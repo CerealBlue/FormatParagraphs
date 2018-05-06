@@ -12,5 +12,23 @@ Format Lines<br/>
   2. Enter the line.<br/><br>
 
 Example:<br/>
-> Enter the size of each line:  10<br/>
-> Enter Line: Once my mother told me to go eat some food. I was reluctant to eat the food that she had made as I didn't like vegetables. Instead, I went to my kitchen and found some cereal. I ate all the different colored cereal except one: Blue.
+> Enter the size of each line:  20<br/>
+> Enter Line: Once my mother told me to go eat dinner. I was reluctant to eat the food that she had made because I didn't like vegetables. So, I went to my kitchen and found a box cereal. I ate all the different colored cereal except one: Blue.
+<br/><br/>
+Output:<br/>
+> Once my mother told 
+> me to go eat dinner.
+>  I was reluctant to 
+>  eat the food that 
+>  she had made because
+>  I didn't like 
+>  vegetables. So, I 
+>  went to my kitchen 
+>  and found a box 
+>  cereal. I ate all 
+>  the different 
+>  colored cereal 
+>  except one: Blue.
+>  
+>  ---Completed Task---
+
